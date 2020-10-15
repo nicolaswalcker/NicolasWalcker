@@ -3,7 +3,7 @@
 Student :computer:
 
 
-![Badge](https://img.shields.io/badge/walcker_@outlook.com-00B4CC?style=flat-square&logo=Outlook&logoColor=white&link=walcker_@outlook.com)
+![walcker_outlook.com](https://img.shields.io/badge/walcker_@outlook.com-00B4CC?style=flat-square&logo=outlook&logoColor=white&link=walcker_@outlook.com)
 
 ***
 
@@ -19,7 +19,6 @@ My name is **Nicolas** , I am a student in Computer Science!
 - :adult: 21years
 - :memo: Casual Team Fight Tactics Player 🎮 and i like study Games development
 - :computer: Studying Front-End
-
 
 ***
 

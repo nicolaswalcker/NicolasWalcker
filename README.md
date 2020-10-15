@@ -1,15 +1,15 @@
 # Nicolas Walcker de Miranda
 
-Student 
+Student :computer:
 
-[![walcker_outlook.com](https://img.shields.io/badge/walcker_@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=walcker_@outlook.com)
+![walcker_outlook.com](https://img.shields.io/badge/walcker_@outlook.com-00B4CC?style=flat-square&logo=Outlook&logoColor=white&link=walcker_@outlook.com)
 ***
 
 
 
 
 
-#### Olá:wave:,
+#### Olá:wave:
 
 My name is **Nicolas** , I am a student in Computer Science!
 

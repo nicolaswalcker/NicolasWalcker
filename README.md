@@ -3,7 +3,7 @@
 Student :computer:
 
 
-![Badge](https://img.shields.io/badge/-%237159c1?style=for-the-badge&logo=outlook)[walcker_outlook.com](https://img.shields.io/badge/walcker_@outlook.com-00B4CC?style=flat-square&logo=Outlook&logoColor=white&link=walcker_@outlook.com)
+![Badge](https://img.shields.io/badge/walcker_@outlook.com-00B4CC?style=flat-square&logo=Outlook&logoColor=white&link=walcker_@outlook.com)
 
 ***
 

@@ -1,16 +1,25 @@
-### Hi there 👋
+# Nicolas Walcker de Miranda
 
-<!--
-**nicolaswalcker/NicolasWalcker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student 
 
-Here are some ideas to get you started:
+[![walcker_outlook.com](https://img.shields.io/badge/walcker_@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=walcker_@outlook.com)
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+#### Olá:wave:,
+
+My name is **Nicolas** , I am a student in Computer Science!
+
+- :house: Nova Venécia - ES - BRAZIL
+- :adult: 21years
+- :memo: Casual Team Fight Tactics Player 🎮 and i like study Games development
+- :computer: Studying Front-End
+
+
+***
+
+
+

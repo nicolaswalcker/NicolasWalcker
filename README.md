@@ -1,26 +1,32 @@
-# Nicolas Walcker de Miranda
+# NICOLAS WALCKER DE MIRANDA
 
-Student :computer:
+Computer Science Student
 
 
-![walcker_outlook.com](https://img.shields.io/badge/walcker_@outlook.com-00B4CC?style=flat-square&logo=outlook&logoColor=white&link=walcker_@outlook.com)
-
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/nicolaswalcker)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=27996224428_55+27+996224428&text=Olá!)](https://api.whatsapp.com/send?phone=27996224428_55+27+2996224428&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicaomaneirao@gmail.com)](mailto:nicaomaneirao@gmail.com)
 ***
 
 
 
 
 
-#### Olá:wave:
+#### Olá:wave:,
 
-My name is **Nicolas** , I am a student in Computer Science!
+My name is **Nicolas** , I am a student in Computer Science 
 
-- :house: Nova Venécia - ES - BRAZIL
+- :house: ES - Brazil
 - :adult: 21years
-- :memo: Casual Team Fight Tactics Player 🎮 and i like study Games development
+- :memo: I like to study game developments too :video_game:
 - :computer: Studying Front-End
 
 ***
 
+## I am Studyng
+ :orange_square: [HTML-5]
+ :yellow_square: [JavaScript]
+ :blue_square: [Python]
+ :cyan_square: [C]
 
 

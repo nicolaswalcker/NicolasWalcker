@@ -25,8 +25,11 @@ My name is **Nicolas** , I am a student in Computer Science
 
 ## I am Studyng
  :orange_square: [HTML-5]
+ 
  :yellow_square: [JavaScript]
+ 
  :blue_square: [Python]
- :cyan_square: [C]
+ 
+ 🟪 [C]
 
 

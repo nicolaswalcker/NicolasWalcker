@@ -12,7 +12,7 @@ Computer Science Student
 
 
 
-#### Olá:wave:,
+#### Hello:wave:
 
 My name is **Nicolas** , I am a student in Computer Science 
 

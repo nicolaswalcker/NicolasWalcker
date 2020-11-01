@@ -3,7 +3,6 @@
 Computer Science Student
 
 
-[![Github Badge]
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5527996224428&text=Olá!)](https://api.whatsapp.com/send?phone=+5527996224428&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicaomaneirao@gmail.com)](mailto:nicaomaneirao@gmail.com)
 ***

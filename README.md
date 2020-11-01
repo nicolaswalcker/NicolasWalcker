@@ -30,6 +30,6 @@ My name is **Nicolas** , I am a student in Computer Science
  
  :blue_square: [Python](https://github.com/nicolaswalcker/MateriasFaculdade/tree/main/Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20-%20Python)
  
- 🟪 [C]
+ 🟪 [C](https://github.com/nicolaswalcker/MateriasFaculdade/tree/main/Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20-%20C)
 
 

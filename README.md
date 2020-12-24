@@ -11,10 +11,16 @@
  - 🤝 I really enjoy participating in collaborative projects.
 #
 ###  Languages I have studied so far: 👇
- [![Python](https://icon-icons.com/icons2/112/PNG/32/python_18894.png)](https://github.com/nicolaswalcker/MateriasFaculdade/tree/main/Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20-%20Python) [![C](https://icon-icons.com/icons2/2415/PNG/32/c_original_logo_icon_146611.png)](https://github.com/nicolaswalcker/MateriasFaculdade/tree/main/Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20-%20C) ![HTML5](https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png)  ![CSS](https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png) ![JS](https://icon-icons.com/icons2/2107/PNG/32/file_type_js_official_icon_130509.png) 
+ [![Python](https://icon-icons.com/icons2/112/PNG/32/python_18894.png)](https://github.com/nicolaswalcker/MateriasFaculdade/tree/main/Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20-%20Python) 
+ [![C](https://icon-icons.com/icons2/2415/PNG/32/c_original_logo_icon_146611.png)](https://github.com/nicolaswalcker/MateriasFaculdade/tree/main/Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20-%20C)
+ [![HTML5](https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png)](https://github.com/nicolaswalcker/familia-du-corte)
+ [![CSS](https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png)](https://github.com/nicolaswalcker/familia-du-corte/tree/main/styles)
+ [![JS](https://icon-icons.com/icons2/2107/PNG/32/file_type_js_official_icon_130509.png)](https://github.com/nicolaswalcker/jogo-da-memoria)
 #
  ### See my projects: 👇
  #### 💸 [My sales machine (Python)](https://github.com/nicolaswalcker/maquina-de-vendas-python)
+
+#### ✂️ [Familia Du Corte Website](https://github.com/nicolaswalcker/familia-du-corte)
 
 
 

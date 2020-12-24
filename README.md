@@ -20,7 +20,7 @@
  ### See my projects: 👇
  #### 💸 [My sales machine (Python)](https://github.com/nicolaswalcker/maquina-de-vendas-python)
 
-#### ✂️ [Familia Du Corte Website](https://github.com/nicolaswalcker/familia-du-corte)
+#### ✂️ [Familia Du Corte Website](https://github.com/nicolaswalcker/familia-du-corte) ->[familiaducorte.live](https://familiaducorte.live/)
 
 
 

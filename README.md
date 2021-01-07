@@ -2,7 +2,7 @@
 <h3>Welcome to my profile 👋</h3>
 
 #
-<a href="https://github.com/nicolaswalcker"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaswalcker&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="400px"></a>
+<a href="https://github.com/nicolaswalcker"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaswalcker&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
 
 <p align="left"> 
   My name is Nicolas Walcker, I'm 21 years old and I'm always looking to learn more. I am currently studying <strong> Computer Science at UFES </strong> and in parallel to the study <strong> Web Development (Front-end)</strong>. 

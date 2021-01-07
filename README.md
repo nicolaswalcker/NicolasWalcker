@@ -17,15 +17,15 @@
 </p>
 
 <p align="left">
-  <a href="mailto:walcker_@outlook.com" target="_blank" alt="Outlook">
-  <img src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&labelColor=blue&logo=microsoft-outlook&logoColor=white&link=walcker_@outlook.com" /></a>
+  <a href="mailto:walcker_@outlook.com" target="_blank" >
+  <img src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&labelColor=blue&logo=microsoft-outlook&logoColor=white&link=walcker_@outlook.com" alt="Outlook"/></a>
 
 
-  <a href="https://api.whatsapp.com/send?phone=+5527996224428&text=Hello!" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5527996224428&text=Hello!"/></a>
+  <a href="https://api.whatsapp.com/send?phone=+5527996224428&text=Hello!" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5527996224428&text=Hello!" alt="WhatsApp"/></a>
 
 
-  <a href="https://www.instagram.com/nicaaaaoo" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nicaaaaoo"/></a>
+  <a href="https://www.instagram.com/nicaaaaoo"  target="_blank" >
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nicaaaaoo" alt="Instagram"/></a>
 </p>
 

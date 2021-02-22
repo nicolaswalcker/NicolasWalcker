@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🎯 Skills: <strong>HTML5, CSS3, JavaScript, C, Python.</strong>
+  🎯 Skills: <strong>HTML5, CSS3, JavaScript, Figma.</strong>
 </p>
 
 <p align="left">

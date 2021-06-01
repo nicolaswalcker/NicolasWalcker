@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nicaaaaoo" alt="Instagram"/></a>
 
   <a href="https://www.linkedin.com/in/nicolas-walcker/">
-  <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&labelColor=0A66C2&logo=Linkedin&logoColor=white&link=https://www.instagram.com/nicaaaaoo" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&labelColor=0A66C2&logo=Linkedin&logoColor=white&link=https://www.instagram.com/nicaaaaoo" alt="Linkedin"/></a>
 </p>
 
 #
@@ -37,43 +37,31 @@
 </p>
 
   <a>
-    <img src="https://img.shields.io/badge/HTML5-2f3640?style=for-the-badge&labelColor=EA6127&logo=html5&logoColor=white" alt="Outlook"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/CSS3-2f3640?style=for-the-badge&labelColor=0170BA&logo=css3&logoColor=white" alt="Outlook"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Javascript-2f3640?style=for-the-badge&labelColor=F7DF1E&logo=javascript&logoColor=2f3640" alt="Outlook"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Laravel-2f3640?style=for-the-badge&labelColor=FF2D20&logo=laravel&logoColor=white" alt="Outlook"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/bootstrap-2f3640?style=for-the-badge&labelColor=563D7C&logo=bootstrap&logoColor=white" alt="Outlook"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/mysql-2f3640?style=for-the-badge&labelColor=00000F&logo=mysql&logoColor=white" alt="Outlook"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Python-2f3640?style=for-the-badge&labelColor=3776AB&logo=python&logoColor=white" alt="Outlook"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/C-2f3640?style=for-the-badge&labelColor=00599C&logo=c&logoColor=white" alt="Outlook"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Netlify-2f3640?style=for-the-badge&labelColor=00C7B7&logo=Netlify&logoColor=2f3640" alt="Outlook"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/markdown-2f3640?style=for-the-badge&labelColor=000000&logo=markdown&logoColor=white" alt="Outlook"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/git-2f3640?style=for-the-badge&labelColor=F05033&logo=git&logoColor=white" alt="Outlook"/>
-  </a>
-  <a>
-  <a>
-    <img src="https://img.shields.io/badge/github-2f3640?style=for-the-badge&labelColor=000000&logo=github&logoColor=white" alt="Outlook"/>
-  </a>
-    <img src="https://img.shields.io/badge/figma-2f3640?style=for-the-badge&labelColor=09CF84&logo=figma&logoColor=white" alt="Outlook"/>
+    <img src="https://img.shields.io/badge/HTML5-2f3640?style=for-the-badge&labelColor=EA6127&logo=html5&logoColor=white" alt="HTML"/>
+  </a><a>
+    <img src="https://img.shields.io/badge/CSS3-2f3640?style=for-the-badge&labelColor=0170BA&logo=css3&logoColor=white" alt="CSS"/>
+  </a><a>
+    <img src="https://img.shields.io/badge/Javascript-2f3640?style=for-the-badge&labelColor=F7DF1E&logo=javascript&logoColor=2f3640" alt="Javascript"/>
+  </a><a>
+    <img src="https://img.shields.io/badge/Laravel-2f3640?style=for-the-badge&labelColor=FF2D20&logo=laravel&logoColor=white" alt="Laravel"/>
+  </a><a>
+    <img src="https://img.shields.io/badge/bootstrap-2f3640?style=for-the-badge&labelColor=563D7C&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  </a><a>
+    <img src="https://img.shields.io/badge/mysql-2f3640?style=for-the-badge&labelColor=00000F&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a><a>
+    <img src="https://img.shields.io/badge/Python-2f3640?style=for-the-badge&labelColor=3776AB&logo=python&logoColor=white" alt="Python"/>
+  </a><a>
+    <img src="https://img.shields.io/badge/C-2f3640?style=for-the-badge&labelColor=00599C&logo=c&logoColor=white" alt="C"/>
+  </a><a>
+    <img src="https://img.shields.io/badge/Netlify-2f3640?style=for-the-badge&labelColor=00C7B7&logo=Netlify&logoColor=2f3640" alt="Netlify"/>
+  </a><a>
+    <img src="https://img.shields.io/badge/markdown-2f3640?style=for-the-badge&labelColor=000000&logo=markdown&logoColor=white" alt="Markdown"/>
+  </a><a>
+    <img src="https://img.shields.io/badge/git-2f3640?style=for-the-badge&labelColor=F05033&logo=git&logoColor=white" alt="Git"/>
+  </a><a>
+    <img src="https://img.shields.io/badge/github-2f3640?style=for-the-badge&labelColor=000000&logo=github&logoColor=white" alt="Github"/>
+  </a><a>
+    <img src="https://img.shields.io/badge/figma-2f3640?style=for-the-badge&labelColor=09CF84&logo=figma&logoColor=white" alt="Figma"/>
   </a>
 </p>
 

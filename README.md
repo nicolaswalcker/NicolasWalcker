@@ -48,13 +48,7 @@
     <img src="https://img.shields.io/badge/bootstrap-2f3640?style=for-the-badge&labelColor=563D7C&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/mysql-2f3640?style=for-the-badge&labelColor=00000F&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <a>
     <img src="https://img.shields.io/badge/Python-2f3640?style=for-the-badge&labelColor=3776AB&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/C-2f3640?style=for-the-badge&labelColor=00599C&logo=c&logoColor=white" alt="C"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/Netlify-2f3640?style=for-the-badge&labelColor=00C7B7&logo=Netlify&logoColor=2f3640" alt="Netlify"/>

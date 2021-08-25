@@ -41,6 +41,9 @@
   <a>
     <img src="https://img.shields.io/badge/Javascript-2f3640?style=for-the-badge&labelColor=F7DF1E&logo=javascript&logoColor=2f3640" alt="Javascript"/>
   </a>
+   <a>
+    <img src="https://img.shields.io/badge/Sass-2f3640?style=for-the-badge&labelColor=0170BA&logo=sass&logoColor=2f3640" alt="Sass"/>
+  </a>
   <a>
     <img src="https://img.shields.io/badge/Laravel-2f3640?style=for-the-badge&labelColor=FF2D20&logo=laravel&logoColor=white" alt="Laravel"/>
   </a>

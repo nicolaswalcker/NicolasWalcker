@@ -1,7 +1,7 @@
 <h2><strong>Welcome to my profile 👋</strong></h2>
 
 <p align="left"> 
-  My name is Nicolas Walcker, I'm 21 years old and I'm always looking to learn more. I am currently studying <strong> Computer Science at UFES </strong> and in parallel to the study <strong> Web Development (Front-end)</strong>.
+  My name is Nicolas Walcker, I'm 23 years old and I'm always looking to learn more. I am currently studying <strong> Computer Science at UFES </strong> and in parallel to the study <strong> Web Development (Front-end)</strong>.
 
 I'm currently studying <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="VUE.JS"/> and <img src="https://img.shields.io/badge/nuxt-35495E?style=flat-square&logo=nuxt.js&logoColor=4FC08D" alt="NUXT"/>.
 

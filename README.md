@@ -3,7 +3,7 @@
 <p align="left"> 
   My name is Nicolas Walcker, I'm 23 years old and I'm always looking to learn more. I am currently studying <strong> Computer Science at UFES </strong> and in parallel to the study <strong> Web Development (Front-end)</strong>.
 
-I'm currently studying <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="VUE.JS"/> and <img src="https://img.shields.io/badge/nuxt-35495E?style=flat-square&logo=nuxt.js&logoColor=4FC08D" alt="NUXT"/>.
+I'm currently studying <img src="https://img.shields.io/badge/TypeScript-35495E?style=flat-square&logo=typescript&logoColor=3178C6" alt="Typescript"/> and <img src="https://img.shields.io/badge/Nuxt-35495E?style=flat-square&logo=nuxt.js&logoColor=4FC08D" alt="NUXT"/>.
 
 </p>
 
@@ -14,7 +14,6 @@ I'm currently studying <img src="https://img.shields.io/badge/Vue.js-35495E?styl
 <p align="left">
   📩 Contact:
 </p>
-
 <p align="left">
   <a href="mailto:walcker_@outlook.com">
   <img src="https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&labelColor=blue&logo=microsoft-outlook&logoColor=white&link=walcker_@outlook.com" alt="Outlook"/></a>
@@ -42,6 +41,18 @@ I'm currently studying <img src="https://img.shields.io/badge/Vue.js-35495E?styl
   <a>
     <img src="https://img.shields.io/badge/Javascript-2f3640?style=for-the-badge&labelColor=F7DF1E&logo=javascript&logoColor=2f3640" alt="Javascript"/>
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/Vue.js-2f3640?style=for-the-badge&labelColor=000&logo=vue.js&logoColor=8ED4B5" alt="Vue"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Nuxt.js-2f3640?style=for-the-badge&labelColor=8ED4B5&logo=nuxt.js&logoColor=000" alt="Nuxt"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Jest-2f3640?style=for-the-badge&labelColor=red&logo=jest&logoColor=fff" alt="Jest"/>
+  </a>
+   <a>
+    <img src="https://img.shields.io/badge/cypress-2f3640?style=for-the-badge&labelColor=blue&logo=cypress&logoColor=fff" alt="Jest"/>
+  </a>
    <a>
     <img src="https://img.shields.io/badge/Sass-2f3640?style=for-the-badge&labelColor=0170BA&logo=sass&logoColor=white" alt="Sass"/>
   </a>
@@ -68,9 +79,6 @@ I'm currently studying <img src="https://img.shields.io/badge/Vue.js-35495E?styl
   </a>
   <a>
     <img src="https://img.shields.io/badge/git-2f3640?style=for-the-badge&labelColor=F05033&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/github-2f3640?style=for-the-badge&labelColor=000000&logo=github&logoColor=white" alt="Github"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/figma-2f3640?style=for-the-badge&labelColor=09CF84&logo=figma&logoColor=white" alt="Figma"/>

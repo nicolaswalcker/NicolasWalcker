@@ -1,7 +1,7 @@
 <h2><strong>Welcome to my profile 👋</strong></h2>
 
 <p align="left"> 
-  My name is Nicolas Walcker, I'm 24 years old and I'm always looking to learn more. I am currently studying <strong> Computer Science at UFES </strong> and in am <strong> Frontend Developer</strong>.
+  My name is Nicolas Walcker, I'm 25 years old and I'm always looking to learn more.</strong> And in am <strong> Frontend Developer</strong>.
 </p>
 
 <img src="https://em.wattpad.com/5b5bca2509b172ea7e02713f3bdc4df680f6a7b5/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f75645f514a412d764a73546e43413d3d2d3238313933303439342e313436343463656530623332376130353931373233323431393231392e676966" alt="Card Star" align="center" width="400px" min-width="300px">
